@@ -3,7 +3,7 @@ import { ContadorComponent } from './contador/contador.component';
 
 
 @NgModule({
-
+ //no me funciona el git
     declarations: [
         ContadorComponent
     ],
